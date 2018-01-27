@@ -9,10 +9,13 @@
     "nodemon": "nodemon --watch build"
   },
   "dependencies": {
+    "@types/node": "^9.4.0",
     "babel-core": "^6.26.0",
     "colour": "^0.7.1",
-    "gulp": "^3.9.1",
+    "global": "^4.3.2",
+    "gulp": "^4.0.0",
     "jquery": "^3.3.1",
+    "live-server": "^1.2.0",
     "lodash": "^4.17.4",
     "moment": "^2.20.1"
   },
